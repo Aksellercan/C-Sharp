@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LabPuzzles/1.0.0": {
+        "runtime": {
+          "LabPuzzles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabPuzzles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

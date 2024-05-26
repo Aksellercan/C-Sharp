@@ -1,0 +1,15 @@
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\bin\Debug\net6.0\LabPuzzles.exe
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\bin\Debug\net6.0\LabPuzzles.deps.json
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\bin\Debug\net6.0\LabPuzzles.runtimeconfig.json
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\bin\Debug\net6.0\LabPuzzles.dll
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\bin\Debug\net6.0\LabPuzzles.pdb
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\LabPuzzles.csproj.AssemblyReference.cache
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\LabPuzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\LabPuzzles.AssemblyInfoInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\LabPuzzles.AssemblyInfo.cs
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\LabPuzzles.csproj.CoreCompileInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\LabPuzzles.dll
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\refint\LabPuzzles.dll
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\LabPuzzles.pdb
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\LabPuzzles.genruntimeconfig.cache
+C:\Users\Aksell\Documents\C# Workspace\LabPuzzles\obj\Debug\net6.0\ref\LabPuzzles.dll
