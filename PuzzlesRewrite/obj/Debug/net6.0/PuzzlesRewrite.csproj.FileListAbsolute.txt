@@ -1,0 +1,15 @@
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\bin\Debug\net6.0\PuzzlesRewrite.exe
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\bin\Debug\net6.0\PuzzlesRewrite.deps.json
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\bin\Debug\net6.0\PuzzlesRewrite.runtimeconfig.json
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\bin\Debug\net6.0\PuzzlesRewrite.dll
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\bin\Debug\net6.0\PuzzlesRewrite.pdb
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\PuzzlesRewrite.csproj.AssemblyReference.cache
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\PuzzlesRewrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\PuzzlesRewrite.AssemblyInfoInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\PuzzlesRewrite.AssemblyInfo.cs
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\PuzzlesRewrite.csproj.CoreCompileInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\PuzzlesRewrite.dll
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\refint\PuzzlesRewrite.dll
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\PuzzlesRewrite.pdb
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\PuzzlesRewrite.genruntimeconfig.cache
+C:\Users\Aksell\Documents\C# Workspace\PuzzlesRewrite\obj\Debug\net6.0\ref\PuzzlesRewrite.dll
